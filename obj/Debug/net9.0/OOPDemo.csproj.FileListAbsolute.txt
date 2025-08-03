@@ -1,0 +1,14 @@
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\bin\Debug\net9.0\OOPDemo.exe
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\bin\Debug\net9.0\OOPDemo.deps.json
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\bin\Debug\net9.0\OOPDemo.runtimeconfig.json
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\bin\Debug\net9.0\OOPDemo.dll
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\bin\Debug\net9.0\OOPDemo.pdb
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\OOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\OOPDemo.AssemblyInfoInputs.cache
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\OOPDemo.AssemblyInfo.cs
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\OOPDemo.csproj.CoreCompileInputs.cache
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\OOPDemo.dll
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\refint\OOPDemo.dll
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\OOPDemo.pdb
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\OOPDemo.genruntimeconfig.cache
+C:\Disk D\Studies\Sem2\Lecture Slides\Programming2\Assignments\Assignment2\dcit318-assignment2-11227253\OOPDemo\obj\Debug\net9.0\ref\OOPDemo.dll
