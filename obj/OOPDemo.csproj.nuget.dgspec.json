@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\oopdemo\\OOPDemo.csproj": {}
+    "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\OOPDemo\\OOPDemo.csproj": {}
   },
   "projects": {
-    "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\oopdemo\\OOPDemo.csproj": {
+    "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\OOPDemo\\OOPDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\oopdemo\\OOPDemo.csproj",
+        "projectUniqueName": "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\OOPDemo\\OOPDemo.csproj",
         "projectName": "OOPDemo",
-        "projectPath": "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\oopdemo\\OOPDemo.csproj",
+        "projectPath": "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\OOPDemo\\OOPDemo.csproj",
         "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-        "outputPath": "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\oopdemo\\obj\\",
+        "outputPath": "C:\\Disk D\\Studies\\Sem2\\Lecture Slides\\Programming2\\Assignments\\Assignment2\\dcit318-assignment2-11227253\\OOPDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
